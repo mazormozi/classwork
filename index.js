@@ -10,3 +10,4 @@ function factFunction(num) {
 document.writeln(factFunction(4))
 document.writeln(factFunction(6))
 
+alert('maor');
